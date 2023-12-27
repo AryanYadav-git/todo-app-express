@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:#41729F ;
+}
+body{
+    background-color: #FCF5E7;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    height: 36rem;
+    width: 59.5rem;
+    background-color: #F9EAC2;
+    border-radius: 15px;
+    /* padding: 35px; */
+}
+.main{
+    margin: 3rem;
+}
+
+/* body{
+    background-color:#274472;
+}
+.container{
+    margin: 2rem;
+    
+}
+
+.input{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border:solid black 1px;
+    border-radius: 1rem;
+    background:#C3E0E5;
+}
+
+#mainArea{
+    background:#5885AF;
+    margin:2rem 0;
+    padding: 2rem;
+    border: solid black 1px;
+    border-radius: 1rem;
+}
+
+.todoBox{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border:solid black 1px;
+    border-radius: 1rem;
+    margin: 10px;
+    background:#C3E0E5;
+
+} */
